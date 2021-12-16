@@ -1,5 +1,10 @@
 # qr_code_reader
 
+Demo video
+
+https://user-images.githubusercontent.com/73890321/146388621-bd4fa579-68e8-4524-aafa-90740d27effd.mp4
+
+
 An app that reads the qr code and shows the content
 
 ## Getting Started
