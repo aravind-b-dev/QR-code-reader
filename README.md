@@ -1,5 +1,13 @@
 # qr_code_reader
 
+dependencies:
+
+- qr_flutter: ^3.2.0
+- barcode_scan: ^3.0.1
+- url_launcher: ^6.0.5
+- lottie:
+- splashscreen: ^1.3.5
+
 Demo video
 
 https://user-images.githubusercontent.com/73890321/146388621-bd4fa579-68e8-4524-aafa-90740d27effd.mp4
