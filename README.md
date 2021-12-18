@@ -1,5 +1,7 @@
 # qr_code_reader
 
+**An app that reads the qr code and shows the content**
+
 dependencies:
 
 - qr_flutter: ^3.2.0
@@ -19,7 +21,6 @@ ScreenShots
 ![qr3](https://user-images.githubusercontent.com/73890321/146390184-9ba125df-9cc5-4487-90ac-18620d1d7fb8.jpg) ![qr4](https://user-images.githubusercontent.com/73890321/146390201-bfb1ca9b-f70a-49cc-aae4-3d7db168122e.jpg)
 
 
-An app that reads the qr code and shows the content
 
 ## Getting Started
 
