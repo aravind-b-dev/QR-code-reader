@@ -18,7 +18,7 @@ ScreenShots
 
 ![qr1](https://user-images.githubusercontent.com/73890321/146390146-9e935e64-6b26-4f47-8abb-fec7b6357b55.jpg) ![qr2](https://user-images.githubusercontent.com/73890321/146390170-cde03788-9561-467c-b54a-55e00bd193ea.jpg)
 
-![qr3](https://user-images.githubusercontent.com/73890321/146390184-9ba125df-9cc5-4487-90ac-18620d1d7fb8.jpg) ![qr4](https://user-images.githubusercontent.com/73890321/146390201-bfb1ca9b-f70a-49cc-aae4-3d7db168122e.jpg)
+![qr3](https://user-images.githubusercontent.com/73890321/146390184-9ba125df-9cc5-4487-90ac-18620d1d7fb8.jpg) ![qr](https://user-images.githubusercontent.com/73890321/148095834-a9e84032-b4e8-4724-a790-b180214a840c.jpg)
 
 
 ## Getting Started
